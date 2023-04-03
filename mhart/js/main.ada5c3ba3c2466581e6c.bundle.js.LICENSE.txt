@@ -45,3 +45,9 @@
  */
 
 /*! npm.im/object-fit-images 3.2.4 */
+
+/**
+ * @license
+ * Copyright 2010-2023 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
